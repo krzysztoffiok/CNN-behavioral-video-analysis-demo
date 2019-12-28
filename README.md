@@ -9,7 +9,7 @@ The original row video comes from Nencki Institute of Experimental Biology, Wars
 
 2. Detection of Tadpoles with added tracker.
 
-[[Click for video]]https://youtu.be/4gF8aINjs2A
+[[Click for video]](https://youtu.be/4gF8aINjs2A)
 
 Original row video comes from Barbara Pietrzak, Department of Biology, University of Warsaw, Warsaw, Poland
 
