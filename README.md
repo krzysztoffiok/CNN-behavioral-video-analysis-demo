@@ -1,4 +1,4 @@
-# CNN-rat-box-test-video-analysis-
+# CNN-behavioral-video-analysis-demo
 Demo of results of video analysis by means of Convolutional Neural Network of a behavioral studies.
 
 1. Rats in boxes - where is the center of the rat over time?
