@@ -1,5 +1,5 @@
 # CNN-behavioral-video-analysis-demo
-Demo of results of video analysis by means of Convolutional Neural Network of a behavioral studies. Works carried out in 2018 in Python3.
+Demo of video analysis by means of Convolutional Neural Networks in the field of behavioral studies carried out on animals. Works carried out in 2018 in Python3.
 
 1. Rats in boxes - where is the center of the rat over time?
 
